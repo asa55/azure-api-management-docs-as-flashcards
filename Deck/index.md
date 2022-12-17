@@ -1,28 +1,17 @@
-# Deck Name
+# asa55 Azure API Management Docs
 
-## One flashcard
+##
 
-(front of card) This flashcard will not be tagged, because it is directly underneath the `Deck/` folder.
+**Metadata**
 
-%
-
-(back of card) One thing that makes `md2apkg-action` really cool is that if you create folders underneath `Deck/` and put `.md` flashcard definitions inside, all your flashcards will automatically get tagged according to the folder hierarchy you define.
-
-For example, say you make a file called `flashcards.md` and tuck it inside folders like so `Deck/tagA/tagB/flashcards.md`, then every flashcard in `flashcards.md` will get automagically tagged with both of the following tags: `tagA`, and `tagA::tagB`. Same goes for other `.md` files you define on that path.
-You can define more than one flashcard in a `.md` file in this way. Or you can create your own `.md` files.
-
-## Another flashcard
-
-One nice feature of `md2apkg-action` is that it concatenates every `.md` file you define, meaning that you can split out your flashcards into multiple files to make it easier to manage if you so desire, and the resulting `Deck.apkg` will be the same. 
+- The flashcards in this deck are derived from the following URL: [learn.microsoft.com/azure/api-management/](https://learn.microsoft.com/azure/api-management/)
+- The tags on an individual flashcard indicate where exactly in the official docs the information was derived from
+  - This convention was selected to make it easier for you to trace information back to its source, to confirm the information here or to deepen your understanding
+- Search `asa55` on Anki shared decks to check for an updated version, or alternatively
+  - Navigate to [`github.com/asa55/azure-functions-docs-as-flashcards`](https://github.com/asa55/azure-api-management-docs-as-flashcards) to see the latest version
 
 %
 
-It's up to you to decide what makes the most sense for your needs.
+Thanks for downloading, and good luck on your learning journey!
 
-## A third flashcard
-
-There is a lot more flexibility for flashcard definitions than is demonstrated here.
-
-%
-
-See the [`md2apkg`](https://github.com/Steve2955/md2apkg) docs to understand how to write flashcards using `.md`.
+(_You may delete this note or keep it handy for future reference_)
