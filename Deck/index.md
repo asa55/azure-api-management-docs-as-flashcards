@@ -5,7 +5,7 @@
 **Metadata**
 
 - The flashcards in this deck are derived from these official docs: [learn.microsoft.com/azure/api-management/](https://learn.microsoft.com/azure/api-management/)
-- These flashcards are maintained in a GitHub repository, here: [`azure-functions-docs-as-flashcards`](https://github.com/asa55/azure-api-management-docs-as-flashcards)
+- These flashcards are maintained in a GitHub repository, here: [`azure-api-management-docs-as-flashcards`](https://github.com/asa55/azure-api-management-docs-as-flashcards)
   - If you're hoping more content gets added to this deck, you're in luck. Check out the "Projects" board at the above link to see what's coming soon 🚀
 - This is one of many `*-docs-as-flashcards` projects
   - Browse additional decks or the latest version of the current deck by searching `asa55` on AnkiWeb shared decks, or by visiting the main `*-docs-as-flashcards` project website, here: [https://asa55.github.io/docs-as-flashcards/](https://asa55.github.io/docs-as-flashcards/)
