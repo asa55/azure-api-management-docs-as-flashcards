@@ -186,7 +186,7 @@ API providers interact with the service through the **management** plane, which 
 
 ##
 
-Customers interact with the management plane through Azure **tools** including the Azure portal, Azure PowerShell, Azure CLI, a Visual Studio Code extension, or client SDKs in several popular programming languages.
+Customers interact with the management plane through Azure `_____` including the Azure portal, Azure PowerShell, Azure CLI, a Visual Studio Code extension, or client SDKs in several popular programming languages.
 
 %
 
@@ -214,7 +214,7 @@ Use the management plane to:
 
 ##
 
-The open-source **developer** portal is an automatically generated, fully customizable website with the documentation of your APIs.
+The open-source `_____` portal is an automatically generated, fully customizable website with the documentation of your APIs.
 
 %
 
