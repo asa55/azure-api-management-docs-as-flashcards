@@ -51,10 +51,17 @@ Azure API Management helps customers meet these challenges:
 
 Common API Management scenarios include:
 
-- Unlocking legacy assets
-- API-centric app integration
-- Multi-channel user experiences
-- B2B integration
+- Unlocking `_____` assets
+- `_____`-centric app integration
+- Multi-`_____` user experiences
+- B2B `_____`
+
+%
+
+- Unlocking **legacy** assets
+- **API**-centric app integration
+- Multi-**channel** user experiences
+- B2B **integration**
 
 ##
 
@@ -98,7 +105,15 @@ APIs eliminate the overhead inherent in **point-to-point** integration. Especial
 
 ##
 
-API Management is available in various tiers differing in capacity and features. Azure API Management is made up of the following components. These are Azure-hosted and fully managed by default
+API Management is available in various `_____` differing in capacity and features
+
+%
+
+API Management is available in various **tiers** differing in capacity and features
+
+##
+
+Azure API Management is made up of the following components. These are Azure-hosted and fully managed by default
 
 - `_____`
 - `_____`
@@ -110,7 +125,7 @@ API Management is available in various tiers differing in capacity and features.
 - a management plane
 - and a developer portal
 
-![API Management Components](./api-management-components.png)
+![API Management Components](./img/api-management-components.png)
 
 ##
 
@@ -186,11 +201,11 @@ API providers interact with the service through the **management** plane, which 
 
 ##
 
-Customers interact with the management plane through Azure `_____` including the Azure portal, Azure PowerShell, Azure CLI, a Visual Studio Code extension, or client SDKs in several popular programming languages.
+Customers interact with the `_____` plane through Azure tools including the Azure portal, Azure PowerShell, Azure CLI, a Visual Studio Code extension, or client SDKs in several popular programming languages.
 
 %
 
-Customers interact with the management plane through Azure **tools** including the Azure portal, Azure PowerShell, Azure CLI, a Visual Studio Code extension, or client SDKs in several popular programming languages.
+Customers interact with the **management** plane through Azure tools including the Azure portal, Azure PowerShell, Azure CLI, a Visual Studio Code extension, or client SDKs in several popular programming languages.
 
 ##
 
@@ -258,7 +273,6 @@ Using the developer portal, developers can:
 
 ##
 
-Integration with Azure services
 API Management integrates with many complementary Azure services to create enterprise solutions, including:
 
 - Azure `_____` for secure safekeeping and management of client certificates and secrets
