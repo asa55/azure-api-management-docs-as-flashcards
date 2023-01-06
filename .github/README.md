@@ -1,7 +1,3 @@
-**Update: Archiving due to superceded by `azure-docs-as-flashcards` project.**
-
----
-
 # azure-api-management-docs-as-flashcards
 
 This is one of many `*-docs-as-flashcards` projects.
