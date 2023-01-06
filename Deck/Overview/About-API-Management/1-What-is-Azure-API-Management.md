@@ -125,8 +125,6 @@ Azure API Management is made up of the following components. These are Azure-hos
 - a management plane
 - and a developer portal
 
-![API Management Components](./img/api-management-components.png)
-
 ##
 
 All requests from client applications first reach the API
